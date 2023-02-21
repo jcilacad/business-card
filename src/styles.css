@@ -1,0 +1,30 @@
+.body {
+  /* height: 100%; */
+  /* padding: 5rem 10rem; */
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+
+.card--body {
+  padding: 3rem 3rem;
+}
+
+.card--title {
+  text-align: center;
+}
+
+.card--text {
+  text-align: justify;
+}
+
+.profile--title {
+  color: orange;
+}
+
+.card--footer {
+  text-align: center;
+}
+
+.icon-facebook {
+  color: #3b5998;
+}
